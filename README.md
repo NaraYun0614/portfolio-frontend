@@ -1,3 +1,8 @@
+### Backend
+
+This website is powered by a Spring Boot backend:  
+🔗 [portfolio-backend](https://github.com/NaraYun0614/portfolio-backend)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
