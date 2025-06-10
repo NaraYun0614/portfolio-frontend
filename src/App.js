@@ -5,6 +5,7 @@ import Projects from './Projects';
 import Sidebar from './components/Sidebar';
 import About from './About';
 import Contact from './Contact';
+import Experience from './Experience';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
             <Route path="/projects" element={<Projects />} />
             <Route path="/about" element={<About />} />
             <Route path="/contact" element={<Contact />} />
+            <Route path="/experience" element={<Experience />} />
           </Routes>
         </main>
       </div>
