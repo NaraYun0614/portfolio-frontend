@@ -21,8 +21,8 @@ function Experience() {
   ];
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-indigo-100 to-white px-6 py-20">
-      <h1 className="text-4xl font-bold text-center text-indigo-700 mb-12">Experience</h1>
+    <div className="min-h-screen bg-gradient-to-br from-blue-200 to-white px-6 py-20">
+      <h1 className="text-4xl font-bold text-center text-blue-900 mb-12">Experience</h1>
       <div className="max-w-3xl mx-auto space-y-8">
         
         <div className="space-y-12">
